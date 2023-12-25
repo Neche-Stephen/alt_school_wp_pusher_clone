@@ -1,0 +1,206 @@
+
+
+.navbar_links div{
+    color: #1D2C3C;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.01px;
+}
+
+.nav_btn{
+    border-radius: 6px;
+    border: 2px solid #646E7A;
+}
+
+/* Main */
+
+.main_col{
+    border-radius: 6px;
+    background: #FFF;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.05), 0px 15px 35px 0px rgba(43, 64, 78, 0.10);
+}
+
+.checkout{
+    color: #1D2C3C;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 41px;
+    padding-left: 48px;
+    padding-bottom: 41px;
+}
+
+.number_col{
+    position: relative;
+}
+.form_number{
+    position: absolute;
+    top: 5px;
+    left: 15px;
+    color: #548BC5;
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.142px;
+}
+.basic_info{
+    color: #1D2C3C;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.16px;
+}
+label{
+    color: #1D2C3C;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.form_input::placeholder{
+    color: #646E7A;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.form_input{
+    border-radius: 4px;
+    background: #EDEFF2;
+}
+.buy_wp{
+    border-radius: 5px;
+    background: #038E7D;
+    color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.396px;
+    padding-top: 13px;
+    padding-bottom: 17px;
+}
+
+/* Main Col 1 */
+.main_col_2{
+    border-radius: 0px 6px 6px 0px;
+    background: #1179BF;
+    color: #fff;
+}
+
+.freelancer{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.01px;
+}
+
+/* Style the first span */
+.col.dollar_amount span:first-child {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.015px;
+}
+
+/* Style the second span */
+.col.dollar_amount span:nth-child(2) {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: -0.015px;
+}
+
+/* Style the third span */
+.col.dollar_amount span:last-child {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.015px;
+}
+
+.automatic_renew{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    letter-spacing: -0.008px;
+}
+
+.client_sides{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.008px;
+}
+
+.client_sides span,  .agency_plan{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.008px;
+}
+
+.agency_plan span{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.008px;
+}
+
+.ftp{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px; /* 133.333% */
+    letter-spacing: -0.009px;
+}
+
+.profile_img{
+    /* background: url('images/Bitmap.png'), lightgray 0px 0px / 100% 100% no-repeat; */
+    background: url('images/Bitmap.png');
+    background-repeat: no-repeat;
+    background-color: ightgray;
+    width: 40px;
+    height: 40px;
+}
